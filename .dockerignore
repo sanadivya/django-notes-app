@@ -1,6 +1,7 @@
 # MySQL database files
 data/
 **/mysql/
+db*
 
 # Python cache
 __pycache__/
