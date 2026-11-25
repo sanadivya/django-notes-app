@@ -1,0 +1,18 @@
+# MySQL database files
+data/
+**/mysql/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Git files
+.git/
+.gitignore
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment files
+.env
